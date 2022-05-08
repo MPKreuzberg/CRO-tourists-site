@@ -1,1 +1,3 @@
-# CRO-tourists-site
+# CRO-tourists-site just for demonstration purposes
+
+NOT finished!!!
